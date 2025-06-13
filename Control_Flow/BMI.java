@@ -27,7 +27,7 @@ public class BMI {
             System.out.println("Overweight");
         } else {
             System.out.println("Obese");
-        }
+        } 
         scanner.close();
     }
 }
