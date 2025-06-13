@@ -25,6 +25,6 @@ public class NaturalNumberSum {
             // If input is not a valid integer
             System.out.println("Invalid input. Please enter an integer.");
         }
-        scanner.close();
+    
     }
 }
