@@ -23,6 +23,7 @@ public class AbundantNumber {
         } else {
             System.out.println(number + " is Not an Abundant Number.");
         }
+        
         scanner.close();
     }
 }
