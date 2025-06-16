@@ -18,7 +18,7 @@ public class LargestOfThree {
         System.out.print("Enter the second number: ");
         int number2 = scanner.nextInt();
         System.out.print("Enter the third number: ");
-        int number3 = scanner.nextInt();
+        int number3 = scanner.nextInt(); 
 
         // Check which is the largest
         boolean firstLargest = (number1 >= number2) && (number1 >= number3);
