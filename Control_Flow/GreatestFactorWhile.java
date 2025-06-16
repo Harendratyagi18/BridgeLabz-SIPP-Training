@@ -1,7 +1,4 @@
-public class hgy {
-    
-}
-aimport java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * Program to print the greatest factor of a number beside itself using a while loop.
