@@ -9,4 +9,4 @@ public class FeetToYardMiles {
 
         System.out.println("The distance in yards is " + yards + " while the distance in miles is " + miles);
     }
-}
+} 
